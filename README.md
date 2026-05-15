@@ -8,35 +8,27 @@
 
 ### 🔐 Premium Onboarding
 Minimalist, high-contrast authentication flow designed for a professional first impression.
-<p align="center">
-  <img src="screenshots/login.png" width="300" alt="Login Screen" />
-</p>
+<img width="501" height="700" alt="Screenshot 2026-05-15 164346" src="https://github.com/user-attachments/assets/9c690c70-45a2-4717-848a-dc206c4aff67" />
+
 
 ### 🏠 Athlete Dashboard
-A central hub featuring dynamic stats, quick actions, and real-time activity tracking.
-<p align="center">
-  <img src="screenshots/dashboard.png" width="300" alt="Home Screen" />
-</p>
+<img width="466" height="600" alt="Screenshot 2026-05-15 164500" src="https://github.com/user-attachments/assets/b0230d8c-e841-4cfb-b98e-6a61607ee5c1" />
+
 
 ### 📅 Real-Time Slot Booking
 A visual reservation system with calendar integration and instant slot synchronization.
-<p align="center">
-  <img src="screenshots/booking.png" width="300" alt="Reservation Calendar" />
-  <img src="screenshots/reservations.png" width="300" alt="My Bookings List" />
-</p>
+<img width="464" height="600" alt="Screenshot 2026-05-15 164528" src="https://github.com/user-attachments/assets/dc04d7a8-05bd-4de9-9459-09165bac0628" />
+<img width="447" height="600" alt="Screenshot 2026-05-15 164633" src="https://github.com/user-attachments/assets/f7ff9f4c-7668-45a2-a942-0d265c255954" />
 
 ### ⚔️ Challenge Arena & Rankings
 Engage with the community through match challenges and track your team's progress on the global leaderboard.
-<p align="center">
-  <img src="screenshots/challenges.png" width="300" alt="Challenge Board" />
-  <img src="screenshots/rankings.png" width="300" alt="Leaderboard" />
-</p>
+<img width="460" height="914" alt="Screenshot 2026-05-15 164554" src="https://github.com/user-attachments/assets/301ceb00-c81d-4d20-84ed-08389b8dd148" />
+<img width="450" height="910" alt="Screenshot 2026-05-15 164710" src="https://github.com/user-attachments/assets/9fc10b4d-cbff-43a5-9479-423c28b4219e" />
+
 
 ### 👤 Athlete Profile
 Comprehensive user stats and management at a glance.
-<p align="center">
-  <img src="screenshots/profile.png" width="300" alt="User Profile" />
-</p>
+<img width="460" height="921" alt="Screenshot 2026-05-15 164737" src="https://github.com/user-attachments/assets/01b952b5-c3b3-4d37-b65f-42f7b2eacea1" />
 
 ---
 
