@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PREMIUM STARTUP PALETTE -->
+    <color name="bg_main">#0B0D12</color>
+    <color name="surface_card">#171A22</color>
+    <color name="divider_color">#252836</color>
+
+    <color name="brand_primary">#7C4DFF</color>
+    <color name="brand_secondary">#00D1FF</color>
+
+    <color name="status_success">#22C55E</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_error">#EF4444</color>
+
+    <color name="text_primary">#F5F7FA</color>
+    <color name="text_secondary">#9AA4B2</color>
+
+    <!-- MISSING REDESIGN COLORS -->
+    <color name="bg_dark">#0B0D12</color>
+    <color name="card_dark">#171A22</color>
+    <color name="divider_dark">#252836</color>
+    <color name="primary_purple">#7C4DFF</color>
+    <color name="cyan_accent">#00D1FF</color>
+    <color name="text_white">#F5F7FA</color>
+    <color name="text_grey">#9AA4B2</color>
+    <color name="success_green">#22C55E</color>
+    <color name="warning_yellow">#F59E0B</color>
+    <color name="error_red">#EF4444</color>
+    <color name="champion_gold">#FFD54F</color>
+
+    <!-- Aliases for compatibility -->
+    <color name="arena_bg">@color/bg_main</color>
+    <color name="secondary_card">@color/surface_card</color>
+    <color name="neon_purple">@color/brand_primary</color>
+    <color name="neon_cyan">@color/brand_secondary</color>
+    <color name="text_high_emphasis">@color/text_primary</color>
+    <color name="text_med_emphasis">@color/text_secondary</color>
+    <color name="victory_green">@color/status_success</color>
+    <color name="defeat_red">@color/status_error</color>
+    <color name="glow_purple">#1A7C4DFF</color>
+    <color name="glow_cyan">#1A00D1FF</color>
+</resources>

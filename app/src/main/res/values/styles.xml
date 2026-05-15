@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ArenaHeadlineLarge">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="ArenaTitle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="ArenaTitleMedium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="ArenaBody">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_grey</item>
+    </style>
+
+</resources>

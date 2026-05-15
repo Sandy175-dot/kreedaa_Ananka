@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kreedaankana">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KreedaAnkana">
+
+        <!-- 🔥 MAIN HUB (BOTTOM NAV) -->
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:exported="false" />
+
+        <!-- 🔥 LOGIN SCREEN (LAUNCHER) -->
+        <activity
+            android:name=".ui.auth.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 🔥 SIGNUP SCREEN -->
+        <activity
+            android:name=".ui.auth.SignupActivity"
+            android:exported="false" />
+
+        <!-- 🔥 BOOKING SCREEN (Details) -->
+        <activity
+            android:name=".ui.booking.BookingActivity"
+            android:exported="false" />
+
+        <!-- 🔥 TEAM SCREEN (Details/List) -->
+        <activity
+            android:name=".ui.team.TeamActivity"
+            android:exported="false" />
+
+        <!-- 🔥 MATCH HISTORY SCREEN -->
+        <activity
+            android:name=".ui.match.MatchHistoryActivity"
+            android:exported="false" />
+
+        <!-- 🔥 NOTIFICATION SCREEN -->
+        <activity
+            android:name=".ui.notification.NotificationActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>
